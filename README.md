@@ -2,7 +2,7 @@
 
 Team:  Clarissa Paitan + Francesca Tiravantti
 
-Visitanos en: [Bio Thani]()
+Visitanos en: [Bio Thani](https://Fran2304.github.io/LIM013-fe-social-network/src/)
 
 ## Índice
 
